@@ -1,0 +1,6 @@
+{
+    "User":{"name": "", "email":""},
+    "UserTransactions": [],
+    "Users": {},
+    "loggedIn": false
+}
